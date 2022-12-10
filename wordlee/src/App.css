@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: #121212;
+  background-color: #0c18eb;
   width: 100vw;
   height: 100vh;
   /* display: flex; */
@@ -39,7 +39,6 @@ nav h1 {
 .board {
   width: 450px;
   height: 550px;
-  border: 1px solid black;
   display: flex;
   flex-direction: column;
 }

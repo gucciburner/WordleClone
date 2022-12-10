@@ -5,6 +5,7 @@ The goal of this project is to clone the popular New York Times game Wordle for 
 1. Rafael Velasquez
 2. Ayden Howard
 3. Caleb Magoola
+4. Gerremy Ferguson
 
 ## Code Files
 This is placeholding text describing how to access and interact with our game. It'll likely be hosted for free somewhere and a link will be included. It'll also explain what each file does that we upload and the changes we make to all of them.

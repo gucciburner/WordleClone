@@ -17,7 +17,7 @@ nav {
   height: 150px;
   width: 100%;
   margin: 0;
-  border-bottom: 1px solid white; /*raf code*/
+  border-bottom: 1px solid white;
   display: grid;
   place-items: center;
 }

@@ -75,7 +75,7 @@ function App() {
   return (
     <div className="App">
       <nav>
-        <h1>WWoorrddllee</h1>
+        <h1>Wordle++</h1>
       </nav>
 
       <AppContext.Provider value={{

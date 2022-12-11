@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: #0c18eb;
+  background-color: #0B0B45;
   width: 100vw;
   height: 100vh;
   /* display: flex; */
@@ -16,7 +16,7 @@ nav {
   height: 60px;
   width: 100%;
   margin: 0;
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid white;
   display: grid;
   place-items: center;
 }
@@ -53,7 +53,7 @@ nav h1 {
 .letter {
   flex: 33%;
   height: 100%;
-  border: 1px solid grey;
+  border: 1px solid #E1D9D1;
   margin: 5px;
   display: grid;
   place-items: center;

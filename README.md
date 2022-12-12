@@ -1,11 +1,12 @@
 # Wordle Clone
-The goal of this project is to clone the popular New York Times game Wordle for our Platform Based Computing (CSC 2053) final project at Villanova University. After learning about React, APIs, Backend frameworks we sought to combine each of those ideas to recreate the game.
+The goal of this project is to clone the popular New York Times game Wordle for our Platform Based Computing (CSC 2053) final project at Villanova University. After learning about React we sought recreate the game to reapply the topics we learned about in class. We hope you enjoy perusing these code files!
 
 ## Group Members
-1. Rafael Velasquez
-2. Ayden Howard
-3. Caleb Magoola
-4. Gerremy Ferguson
+Check Out these Cool People!
+1. Rafael Velasquez: https://www.linkedin.com/in/rafaelbvelasquez/
+2. Ayden Howard: https://www.linkedin.com/in/ayden-howard-352a36195/
+3. Caleb Magoola: https://www.linkedin.com/in/calebmagoola/
+4. Gerremy Ferguson: https://www.linkedin.com/in/gerremy-ferguson-01184b1b7/
 
 ## Code Files
 This is placeholding text describing how to access and interact with our game. It'll likely be hosted for free somewhere and a link will be included. It'll also explain what each file does that we upload and the changes we make to all of them.

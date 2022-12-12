@@ -8,11 +8,5 @@ Check Out these Cool People!
 3. Caleb Magoola: https://www.linkedin.com/in/calebmagoola/
 4. Gerremy Ferguson: https://www.linkedin.com/in/gerremy-ferguson-01184b1b7/
 
-## Code Files
-This is placeholding text describing how to access and interact with our game. It'll likely be hosted for free somewhere and a link will be included. It'll also explain what each file does that we upload and the changes we make to all of them.
-
-## Contributions
-This section may not stay but in case we want to describe who did what this could be done here.
-
-## Sources
-Besides going into depth about the API we used and what platform we host this game on, I'm not sure if we'll need to go into any more detail. It may be nice to detail all the technologies and platforms that we use though.
+## How to Interact With Our Repo
+The react app is completely contained within the "wordlee" folder. That folder holds the final version of our game. The two CSS files "Caleb's CSS" and Gerremy's CSS" were there for developmental and testing reasons. 
